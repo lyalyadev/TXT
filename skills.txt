@@ -1,0 +1,12 @@
+    theory: test documentation,
+    server: requests,
+    json: structure,
+    xml: structure,
+    console: logs,
+    postman: writing auto tests,
+    web: API testing,
+    mobile: iOS, Android,
+    Charles: sniffing,
+    terminal: Linux, Ubuntu,
+    SQL: select, insert, delete, join,
+    Python: creation of the app
