@@ -1,0 +1,6 @@
+
+    favourite movie: Prince of Percia,
+    favourite serial: Friends,
+    favourite book: Narnia,
+    favourite season: summer,
+    countries: Australia,Portugal, Slowakia

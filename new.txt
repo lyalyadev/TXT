@@ -1,0 +1,7 @@
+first name: Lyalya,
+    last name: Samoilenko,
+    age: 35,
+    pets: 0,
+    kids: daughter Lisa, son Illia,
+    occupation: QA Tester,
+    family status: married     
